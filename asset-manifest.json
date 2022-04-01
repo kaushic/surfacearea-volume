@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/surfacearea-volume/static/css/main.fd990956.css",
+    "main.js": "/surfacearea-volume/static/js/main.4a667592.js",
+    "static/js/787.2056841a.chunk.js": "/surfacearea-volume/static/js/787.2056841a.chunk.js",
+    "static/media/questions.gif": "/surfacearea-volume/static/media/questions.bc968d6a39d78e4b84eb.gif",
+    "static/media/numberCrunch.gif": "/surfacearea-volume/static/media/numberCrunch.6346fadc0f77c2f80901.gif",
+    "static/media/vitalGif.gif": "/surfacearea-volume/static/media/vitalGif.2e7594d89bb4b892891f.gif",
+    "static/media/meme2.png": "/surfacearea-volume/static/media/meme2.435644207eb18954206c.png",
+    "static/media/geometry.png": "/surfacearea-volume/static/media/geometry.8394871afa05f88c0c41.png",
+    "static/media/nuggetCaseStudy.png": "/surfacearea-volume/static/media/nuggetCaseStudy.39fb5f6f354d344cf415.png",
+    "static/media/memes.png": "/surfacearea-volume/static/media/memes.7c6f27a4b83c06ac56ad.png",
+    "static/media/graph1.png": "/surfacearea-volume/static/media/graph1.c471b70b73598da6a450.png",
+    "index.html": "/surfacearea-volume/index.html",
+    "main.fd990956.css.map": "/surfacearea-volume/static/css/main.fd990956.css.map",
+    "main.4a667592.js.map": "/surfacearea-volume/static/js/main.4a667592.js.map",
+    "787.2056841a.chunk.js.map": "/surfacearea-volume/static/js/787.2056841a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd990956.css",
+    "static/js/main.4a667592.js"
+  ]
+}
