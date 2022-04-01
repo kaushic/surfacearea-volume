@@ -4,6 +4,7 @@ import Evidence from './components/Evidence';
 import ExplanationIntro from './components/ExplanationIntro';
 import Intro from './components/Intro';
 import Conclusion from './components/Conclusion';
+import Questions from './components/Questions';
 function App() {
   return (
     <div>
@@ -16,6 +17,8 @@ function App() {
       <Evidence />
       <hr></hr>
       <Conclusion />
+      <hr></hr>
+      <Questions />
     </div>
   );
 }

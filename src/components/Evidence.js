@@ -1,18 +1,19 @@
-import React from 'react'
+import React from 'react';
 import { Container } from 'react-bootstrap';
-import './Evidence.css'
-import numberCrunching from '../assets/numberCrunch.gif'
-import memes from '../assets/memes.png'
-import graph1 from '../assets/graph1.png'
-import caseStudy from '../assets/nuggetCaseStudy.png'
-
+import './Evidence.css';
+import numberCrunching from '../assets/numberCrunch.gif';
+import memes from '../assets/memes.png';
+import meme2 from '../assets/meme2.png';
+import graph1 from '../assets/graph1.png';
+import caseStudy from '../assets/nuggetCaseStudy.png';
+import caseStudy2 from '../assets/geometry.png';
 function Evidence() {
     return (
         <Container>
             <div>
                 <br></br>
                 <h2>so i ran some numbers</h2>
-                <img className="center" src={numberCrunching} />
+                <img className='center' src={numberCrunching} />
                 <h4>*i did like 2 calculations based on data I found on the internet, but the point still stands</h4>
                 <p>If we evaluate the SA:V of Mini M&Ms and their counterparts we find that the:</p>
                 <ul>
@@ -29,8 +30,14 @@ function Evidence() {
                 </ul>
                 <p style={{ fontSize: '15px' }}>(Source: <a href="http://sustainable-nano.com/2019/02/14/valentines-day-nanotechnology/" target="_blank" >http://sustainable-nano.com/2019/02/14/valentines-day-nanotechnology/</a>).</p>
                 <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <hr></hr>
+                <br></br>
                 <h2>some twitter polls & graphs</h2>
-                <img className="center" src={graph1} />
+                <img className='center' src={graph1} />
                 <br></br>
                 <br></br>
                 <br></br>
@@ -38,8 +45,8 @@ function Evidence() {
                 <br></br>
                 <hr></hr>
                 <br></br>
-                <h2>a case study & some more number crunching...</h2>
-                <img className="center" src={caseStudy} />
+                <h2>a couple of case studies & some more number crunching...</h2>
+                <img className='center' src={caseStudy} />
                 <h4>*not their actual scientific names</h4>
                 <p>
                     SA: V of the regular chicken nugget: absolutely irrevelant</p>
@@ -47,6 +54,7 @@ function Evidence() {
                     We can clearly see that the Stegosaurus Gallus Massa is the best tasting <strong>not</strong> because it’s my <em>favorite dinosaur</em> but because of its higher SA:V
                     ratio which can be attributed to the "ridge plates” across its spine
                 </p>
+                <img className='centerGif' src={caseStudy2} />
                 <br></br>
                 <br></br>
                 <br></br>
@@ -56,6 +64,8 @@ function Evidence() {
                 <br></br>
                 <h2>some more <strike>memes</strike> graphs</h2>
                 <img className="center" src={memes} />
+                <br></br>
+                <img className="center" src={meme2} />
                 <br></br>
                 <br></br>
                 <br></br>
