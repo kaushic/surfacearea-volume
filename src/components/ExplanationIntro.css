@@ -1,0 +1,39 @@
+a {
+    color: rgb(226, 226, 226);
+    text-decoration: none;
+    font-style: italic;
+    text-align: center;
+    color: white;
+}
+h4 {
+    text-align: center;
+    color: white;
+    font-weight: normal;
+}
+h2 {
+    font-size: 45px;
+    flex-wrap: wrap;
+    text-align: center;
+    color: white;
+}
+h3 {
+    text-align: center;
+    color: white;
+}
+ul {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+li {
+    font-size: large;
+    color: white;
+}
+.centerGif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width:50%;
+    max-height:50%;
+}

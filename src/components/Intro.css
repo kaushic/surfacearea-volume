@@ -1,0 +1,27 @@
+a {
+    color: rgb(226, 226, 226);
+    text-decoration: none;
+    font-style: italic;
+    text-align: center;
+    color: white;
+}
+h1 {
+    font-size: 100px;
+    text-align: center;
+    color: white;
+}
+h2 {
+    font-size: 45px;
+    flex-wrap: wrap;
+    text-align: center;
+    color: white;
+}
+h3 {
+    text-align: center;
+    color: white;
+}
+
+li {
+    font-size: x-large;
+    color: white;
+}
