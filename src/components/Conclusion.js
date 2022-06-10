@@ -10,27 +10,24 @@ function Evidence() {
                 <br></br>
                 <h2>some food for thought</h2>
                 <h3 className='showdown'> these foods have <strong> high SA:V </strong>🤤 ✅ 😋</h3>
-                <ul>
-                    <li>NY Style Pizza</li>
-                    <li>Thin Bagels</li>
-                    <li>Waffles</li>
-                    <li>Sandwiches Cut Diagonally</li>
-                    <li>Thin Oreos</li>
-                    <li>Mini Hotdogs</li>
-                    <li>Mini Tacos</li>
-                    <li>Mini Cupcakes</li>
-                </ul>
+                <h4 style={{ fontSize: '20px' }}> NY Style Pizza</h4>
+                <h4 style={{ fontSize: '20px' }}> Thin Bagels</h4>
+                <h4 style={{ fontSize: '20px' }}> Waffles</h4>
+                <h4 style={{ fontSize: '20px' }}> Crepes</h4>
+                <h4 style={{ fontSize: '20px' }}> Sandwiches Cut Diagonally</h4>
+                <h4 style={{ fontSize: '20px' }}> Thin Oreos</h4>
+                <h4 style={{ fontSize: '20px' }}> Mini Hotdogs</h4>
+                <h4 style={{ fontSize: '20px' }}> Mini Tacos</h4>
+                <h4 style={{ fontSize: '20px' }}> Mini Cupcakes</h4>
                 <h3 className='showdown'> these foods have <strong> low SA:V </strong> 😔 ❌ 🥴</h3>
-                <ul>
-                    <li>Deep Dish Pizza (the only item on this list i can't support)</li>
-                    <li>Regular Bagels*</li>
-                    <li>Pancakes*</li>
-                    <li>Sandwiches*</li>
-                    <li>Regular Oreos*</li>
-                    <li>Regular Hotdogs*</li>
-                    <li>Regular Tacos*</li>
-                    <li>Regular Cupcakes*</li>
-                </ul>
+                <h4 style={{ fontSize: '20px' }}> Deep Dish Pizza (the only item on this list i just can't support)</h4>
+                <h4 style={{ fontSize: '20px' }}> Regular Bagels*</h4>
+                <h4 style={{ fontSize: '20px' }}> Pancakes*</h4>
+                <h4 style={{ fontSize: '20px' }}> Sandwiches Cut Horizontally*</h4>
+                <h4 style={{ fontSize: '20px' }}> Regular Oreos</h4>
+                <h4 style={{ fontSize: '20px' }}> Regular Hotdogs</h4>
+                <h4 style={{ fontSize: '20px' }}> Regular Tacos</h4>
+                <h4 style={{ fontSize: '20px' }}> Regular Cupcakes</h4>
                 <p style={{ fontSize: '16px' }}>*<i>still pretty good...just inferior to their mini counterparts</i></p>
                 <br></br>
                 <br></br>

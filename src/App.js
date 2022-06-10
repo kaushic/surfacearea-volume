@@ -5,21 +5,26 @@ import ExplanationIntro from './components/ExplanationIntro';
 import Intro from './components/Intro';
 import Conclusion from './components/Conclusion';
 import Questions from './components/Questions';
+import { Container } from 'react-bootstrap';
+
 function App() {
   return (
-    <div>
-      <Intro />
-      <hr></hr>
-      <Basics />
-      <hr></hr>
-      <ExplanationIntro />
-      <hr></hr>
-      <Evidence />
-      <hr></hr>
-      <Conclusion />
-      <hr></hr>
-      <Questions />
-    </div>
+    <Container>
+      <div>
+        <Intro />
+        <hr></hr>
+        <Basics />
+        <hr></hr>
+        <ExplanationIntro />
+        <hr></hr>
+        <Evidence />
+        <hr></hr>
+        <Conclusion />
+        <hr></hr>
+        <Questions />
+      </div>
+    </Container>
+
   );
 }
 

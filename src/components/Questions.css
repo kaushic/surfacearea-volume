@@ -5,41 +5,49 @@ a {
     text-align: center;
     color: white;
 }
+
 h4 {
     text-align: center;
     color: white;
     font-weight: normal;
 }
+
 h2 {
     font-size: 45px;
     flex-wrap: wrap;
     text-align: center;
     color: white;
 }
+
 h3 {
     text-align: center;
     color: white;
 }
+
 ul {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 25%;
 }
+
 li {
     font-size: large;
     color: white;
 }
+
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-  }
-  .centerGif {
+    max-width: 75vw;
+    max-height: 75vh;
+}
+
+.centerGif {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-width:25%;
-    max-height:25%;
+    max-width: 75vw;
+    max-height: 75vh;
 }
